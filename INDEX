@@ -127,3 +127,9 @@ footer{border-top:1px solid #e1e8ef;padding:20px 0 32px;color:#748393;font-size:
 </div>
 </body>
 </html>
+.gradle/
+local.properties
+.idea/
+build/
+*/build/
+*.iml
